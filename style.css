@@ -1,0 +1,11 @@
+#todoListContainer{
+list-style: none;
+border:2px solid red;
+padding:0;
+}
+#todoListContainer>li{
+padding:1rem;
+}
+.todoItem{
+    
+}
